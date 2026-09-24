@@ -1,0 +1,12 @@
+{
+  "raw_data_dir": "../data/raw",
+  "active_dir": "../data/experiments/{dataset}",
+  "dataset_data_dir": "../data/datasets/{dataset}",
+  "modules_dir": "../src/modules",
+  "nnunet_dir": "../data/nnunet",
+  "manual_dir": null,
+  "nngeometry_dir": null,
+  "nnunet_raw": "../data/nnunet/nnUNet_raw",
+  "nnunet_preprocessed": "../data/nnunet/nnUNet_preprocessed",
+  "nnunet_results": "../data/nnunet/nnUNet_results"
+}

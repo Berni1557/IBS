@@ -1,0 +1,18 @@
+{
+    "method": "xalabeler",
+    "fp_images": "/Users/bfollmer/inria/02_code/ActiveLearning/AMOS/imagesTr",
+    "fp_pseudo": "/Users/bfollmer/inria/XALabeler/XALabeler/XALabeler/data_manual/pseudo",
+    "fp_refine": "/Users/bfollmer/inria/XALabeler/XALabeler/XALabeler/data_manual/refine",
+    "fp_mask": "/Users/bfollmer/inria/XALabeler/XALabeler/XALabeler/data_manual/mask",
+    "fp_uc": "/Users/bfollmer/inria/XALabeler/XALabeler/XALabeler/data_manual/uc",
+    "fip_actionlist": "/Users/bfollmer/inria/XALabeler/XALabeler/XALabeler/data_manual/actionlist.json",
+    "fip_colors": "/Users/bfollmer/inria/XALabeler/XALabeler/XALabeler/data_manual/XALabelerLUT.ctbl",
+    "foregroundOpacity": 0.3,
+    "classification": true,
+    "classification_multislice": false,
+    "show_roi": true,
+    "fip_round_status": "",
+    "default_ignore": true,
+    "clustering": true,
+    "batch_size": 25
+}
