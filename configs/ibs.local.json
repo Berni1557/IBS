@@ -1,0 +1,12 @@
+{
+  "raw_data_dir": "/srv/storage/epione@storage2.sophia.grid5000.fr/bfollmer/data/AL/nnunet/AMOS/data_raw",
+  "active_dir": "/srv/storage/epione@storage2.sophia.grid5000.fr/bfollmer/data/AL/nnunet/AMOS/AL",
+  "dataset_data_dir": "../data/datasets/{dataset}",
+  "modules_dir": "../src/modules",
+  "nnunet_dir": "/srv/storage/epione@storage2.sophia.grid5000.fr/bfollmer/data/AL/nnunet",
+  "manual_dir": null,
+  "nngeometry_dir": null,
+  "nnunet_raw": "/srv/storage/epione@storage2.sophia.grid5000.fr/bfollmer/data/AL/nnunet/nnUNet_raw",
+  "nnunet_preprocessed": "/srv/storage/epione@storage2.sophia.grid5000.fr/bfollmer/data/AL/nnunet/nnUNet_preprocessed",
+  "nnunet_results": "/srv/storage/epione@storage2.sophia.grid5000.fr/bfollmer/data/AL/nnunet/nnUNet_results"
+}
