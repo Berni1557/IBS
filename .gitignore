@@ -2,6 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
+*.pyc
 
 # C extensions
 *.so
@@ -217,3 +218,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+src/tools/nnUNet/nnUNet/nnunetv2/training/nnUNetTrainer/primus/__pycache__/primus_trainers.cpython-312.pyc
+src/tools/nnUNet/nnUNet/nnunetv2/training/nnUNetTrainer/variants/lr_schedule/__pycache__/nnUNetTrainer_warmup.cpython-312.pyc
